@@ -8,6 +8,7 @@ import reddead  from "../images/reddead.jpg"
 import gta4 from "../images/gta4.png"
 import gtasan from "../images/gtasan.jpg"
 import lanoire from "../images/lanoire.webp"
+import star from "../images/star.png"
 
 
 
