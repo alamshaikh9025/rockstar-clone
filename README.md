@@ -1,6 +1,8 @@
 # React + Vite
-    live working deploy at: [rockstar clone](https://alam-rockstar-clone.netlify.app/)
-! Rockstar Clone website 
+
+    For live demo of this website click here : [ROCKSTAR CLONE](https://alam-rockstar-clone.netlify.app/)
+
+ Rockstar Clone website 
     This website is made using React
     -To install locally you need to have nodejs installed on your PC.
     -Then download the code or clone the repository to your PC.
@@ -8,7 +10,7 @@
     
     Config:
         used react components and JSX to manipulate data and design the webpage.
-!
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
