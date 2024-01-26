@@ -1,5 +1,5 @@
 # React + Vite
-    live working deploy at: https://alam-rockstar-clone.netlify.app/
+    live working deploy at: [ROCKSTAR CLONE](https://alam-rockstar-clone.netlify.app/)
 ! Rockstar Clone website 
     This website is made using React
     -To install locally you need to have nodejs installed on your PC.
