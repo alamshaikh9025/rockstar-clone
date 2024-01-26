@@ -2,11 +2,11 @@
 
 For live demo of this website click here : [ROCKSTAR](https://alam-rockstar-clone.netlify.app/)
 
- Rockstar Clone website 
-    This website is made using React
-    -To install locally you need to have nodejs installed on your PC.
-    -Then download the code or clone the repository to your PC.
-    -Go to a new terminal and us the command "npm run dev" to run locally on your system.
+ Rockstar Clone website <br>
+    -This website is made using React<br>
+    -To install locally you need to have nodejs installed on your PC.<br>
+    -Then download the code or clone the repository to your PC.<br>
+    -Go to a new terminal and use the command "npm run dev" to run locally on your system.<br>
     
     Config:
         used react components and JSX to manipulate data and design the webpage.
