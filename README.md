@@ -1,6 +1,6 @@
 # React + Vite
 
-    For live demo of this website click here : [ROCKSTAR CLONE](https://alam-rockstar-clone.netlify.app/)
+For live demo of this website click here : [ROCKSTAR](https://alam-rockstar-clone.netlify.app/)
 
  Rockstar Clone website 
     This website is made using React
